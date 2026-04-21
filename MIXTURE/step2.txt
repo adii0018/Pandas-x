@@ -1,0 +1,19 @@
+1 square brackests
+2 boolen conditions 
+
+selecting  columns
+ 1- a series 
+ 2- data farme multiple columns of data 
+
+ columns = df ["column name"]
+ columns  = df["column1","column2",.....]
+
+ filetring rows 
+ boolen indexing
+
+# based on a sngle coondton 
+  filetring_rows = df[df["salllery"]>1000]
+  
+#comine  multiple conditions
+ flterd_row =df [(df["colums"]>10000) & (df["colum2"]<66666)]
+ 

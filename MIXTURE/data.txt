@@ -1,0 +1,11 @@
+1. understand the data set 
+2. identify the problem
+3. palne the steps 
+
+info()
+method 
+
+1. yeeh data type batat he 
+2. size bata he 
+3.  row name bhi bata he 
+4. indexing bhi 
