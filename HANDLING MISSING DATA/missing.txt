@@ -1,0 +1,7 @@
+nan  not a number 
+none (  for object data type)
+
+isnull()
+true  - nan is missing 
+false - vallue  is present 
+
